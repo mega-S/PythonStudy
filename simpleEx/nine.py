@@ -8,3 +8,4 @@ with open("files/new.txt", "w") as file:
 with open("files/new.txt", "r") as file:
     fullFile = file.read()
     print(fullFile)
+    
